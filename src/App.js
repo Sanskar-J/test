@@ -7,7 +7,6 @@ function App() {
   return (
     <>
     <Test />
-    <div>fuck</div>
     </>
   );
 }
